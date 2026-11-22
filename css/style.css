@@ -19,7 +19,7 @@ img{max-width:100%;display:block}
     top:0;z-index:20;background:#f8f7f4ed;
     backdrop-filter:blur(12px);
     border-bottom:1px solid var(--line)}
-    .header-inner{
+.header-inner{
         height:76px;
         display:flex;
         align-items:center;
